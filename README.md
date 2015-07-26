@@ -1,2 +1,2 @@
 # hello-people
-bla bla bla
+I am a middle school teacher.
